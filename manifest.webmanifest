@@ -4,7 +4,7 @@
     "description": "The Structure of Cybersecurity",
     "start_url": "/?homescreen=1",
     "background_color": "#000000",
-    "theme_color": "#ffdd00",
+    "theme_color": "#FF8000",
     "display": "minimal-ui",
     "icons": [{
         "src": "icons/icon-256.png",
