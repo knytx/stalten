@@ -1,0 +1,14 @@
+{
+    "name": "Stalten",
+    "short_name": "stalten",
+    "description": "The Structure of Cybersecurity",
+    "start_url": "/?homescreen=1",
+    "background_color": "#000000",
+    "theme_color": "#ffdd00",
+    "display": "minimal-ui",
+    "icons": [{
+        "src": "icons/icon-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    }]
+}
